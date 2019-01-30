@@ -17,8 +17,8 @@ Rebecca can take voice commands and perform the following actions right now
 7. Check unread emails and fetch you the result regarding the details of the mail (sender/date/time/subject)
 8. Send an email through the smtp server without you having to log in to your account 
 # Setting Up Rebecca:
-1. Copy the code to a directory
-2. Form the database.xlsx in the same directory
+1. Clone the repo
+2. Form the database.xlsx in the same directory as of code
 3. Open the code with the an IDLE (preferably Python 3.6, Python 3.7 doesn't supports Pyaudio)
 4. Start rebecca and wait till she introduces herself
 5. Speak once "Speak" text appears
