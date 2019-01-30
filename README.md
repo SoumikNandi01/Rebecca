@@ -1,0 +1,2 @@
+# Rebecca
+Rebecca is an Artificial Intelligence Assistance for OS platform ( Windows/Mac/Linux) made using Machine Learning concepts, Natural Language Processing with Automation. The entire code is in python. Rebecca can take voice commands and act accordingly. It can log you in to different registered accounts, check your mail, your facebook notifications, search wikipedia, search locations in google maps and general stuffs for you. It can also motivate you by telling you an inspirational quote. It too has a sentiment analysis feature which is under developement. 
